@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300589650785",
+    "firebase_url": "https://detecttext-b24cc.firebaseio.com",
+    "project_id": "detecttext-b24cc",
+    "storage_bucket": "detecttext-b24cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300589650785:android:da82ce2f449d257a33ab20",
+        "android_client_info": {
+          "package_name": "com.example.detecttext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300589650785-vulop2sa2bnphug82882nhuck58hkq86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuTz-8msbwYRdWe8gbc_4hsB3kP57A4ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300589650785-vulop2sa2bnphug82882nhuck58hkq86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+rootProject.name='detecttext'
+include ':app'

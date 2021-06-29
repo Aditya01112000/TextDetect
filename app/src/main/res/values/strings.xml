@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">detecttext</string>
+    <string name="display_detected_text">Display detected text</string>
+</resources>
